@@ -1,6 +1,12 @@
 # HDAP grails project template
 ---
 
+This template is for anyone trying to use grails to develope apps for deployment on the Health Data Analytics Platform at Georgia institute of technology. 
+
+
+It was born after a semeter taking Introduction to health informatics (CS 6440). 
+
+
 ## Running locally
 
 #### Development and Debugging
