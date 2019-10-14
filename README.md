@@ -3,6 +3,8 @@
 
 This template is for anyone trying to use grails to develope apps for deployment on the Health Data Analytics Platform at Georgia institute of technology. 
 
+You can use it to build your project for introduction to health informatics. 
+
 
 IT will help you get up and running quickly so you don't spend too much time trying to configure docker, etc
 
